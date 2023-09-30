@@ -1,4 +1,4 @@
-//Program 1
+//Program 1:Prime or Not
 let arr2=[10,20,30,40,50]
 let count1=0
 for(let j=2;j<=arr2[0]/2;j++){
@@ -9,7 +9,7 @@ if(count1==0)
 console.log("Prime")
 else
 console.log("Not Prime")
-//Program 2
+//Program 2: Frequency of elements
 
 let arr = [1, 2, 3, 1, 5, 7, 5, 5, 9 ];
        
@@ -35,7 +35,7 @@ let arr = [1, 2, 3, 1, 5, 7, 5, 5, 9 ];
       console.log("Frequent Item : "+num)
       console.log("Number of Occurence: "+count)
 
-      //Program 3
+      //Program 3 Odd or Even
 
       for(let i=0;i<=15;i++){
         if(i%2==0)
@@ -44,7 +44,7 @@ let arr = [1, 2, 3, 1, 5, 7, 5, 5, 9 ];
         console.log(i+"  is ODD")
       }
       
-      //Program 4
+      //Program 4 :Sum of Squares
       let arr1=[30,30,40]
       let result=0
 
